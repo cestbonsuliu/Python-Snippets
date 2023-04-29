@@ -16,9 +16,11 @@
 
 ## 清空书签
 
+[RemoveBookmarks.py](https://github.com/cestbonsuliu/Python-Snippets/blob/4f83513802c6b23a42936869d7648dda80184fe7/Snippets/PDFUtils/RemoveBookmarks.py)
 
+## 删除指定范围的页数
 
-
+[RemovePages.py](https://github.com/cestbonsuliu/Python-Snippets/blob/364abd18def83d3b37b81432a31112c4a6d1146d/Snippets/PDFUtils/RemovePages.py)
 
 
 
