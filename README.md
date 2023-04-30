@@ -20,11 +20,18 @@
 
 ## 删除指定范围的页数
 
+
 [RemovePages.py](https://github.com/cestbonsuliu/Python-Snippets/blob/364abd18def83d3b37b81432a31112c4a6d1146d/Snippets/PDFUtils/RemovePages.py)
 
 
+## 去除水印
 
 
+[RemoveWatermark.py](https://github.com/cestbonsuliu/Python-Snippets/blob/2b735bb60a46c1ec47f398067c197d3133dddf54/Snippets/PDFUtils/RemoveWatermark.py)
 
+
+## 转为Word
+
+[PDFToWord.py](https://github.com/cestbonsuliu/Python-Snippets/blob/8b9f36a3e0816a10559857876ed86064b3f4b56e/Snippets/PDFUtils/PDFToWord.py)
 
 
