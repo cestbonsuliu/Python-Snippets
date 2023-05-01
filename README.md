@@ -35,3 +35,26 @@
 [PDFToWord.py](https://github.com/cestbonsuliu/Python-Snippets/blob/8b9f36a3e0816a10559857876ed86064b3f4b56e/Snippets/PDFUtils/PDFToWord.py)
 
 
+## 合并PDF
+
+
+[MergePDF.py](https://github.com/cestbonsuliu/Python-Snippets/blob/94dd3d56f568ae31d83ca7646ec8fe5e22120ab4/Snippets/PDFUtils/MergePDF.py)
+
+## 加密PDF
+
+[EncryptPDF.py](https://github.com/cestbonsuliu/Python-Snippets/blob/94dd3d56f568ae31d83ca7646ec8fe5e22120ab4/Snippets/PDFUtils/EncryptPDF.py)
+
+## 解密PDF
+
+[DecryptPDF.py](https://github.com/cestbonsuliu/Python-Snippets/blob/bc77c09bc6147e053ab007579c42cfcc314c3acd/Snippets/PDFUtils/DecryptPDF.py)
+
+
+
+
+
+
+
+
+
+
+
