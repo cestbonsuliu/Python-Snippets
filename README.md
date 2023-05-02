@@ -10,6 +10,10 @@
 
 [SortFilesByOrder.py](https://github.com/cestbonsuliu/Python-Snippets/blob/76904f4eb41efc73711c485e6bb966e3bfae83e6/Snippets/FileUtils/SortFilesByOrder.py)
 
+## 备份某文件夹信息
+
+[BackupFolder.py](https://github.com/cestbonsuliu/Python-Snippets/blob/4ab3b34586117fcb88eca6515cf48ccca63ff073/Snippets/FileUtils/BackupFolder.py)
+
 
 
 # PDF相关：[PDFUtils](https://github.com/cestbonsuliu/Python-Snippets/blob/fe45e7e28e2d05eca1f1952d87a76c87dc57fcea/Snippets/PDFUtils)
@@ -49,9 +53,11 @@
 [DecryptPDF.py](https://github.com/cestbonsuliu/Python-Snippets/blob/bc77c09bc6147e053ab007579c42cfcc314c3acd/Snippets/PDFUtils/DecryptPDF.py)
 
 
+## Windows系统相关
 
+### 向目标窗口发送信息
 
-
+[SendMessageToWindow.py](https://github.com/cestbonsuliu/Python-Snippets/blob/f23227148c2356399e9bc77533b65afa2781c539/Snippets/WindowsUtils/SendMessageToWindow.py)
 
 
 
