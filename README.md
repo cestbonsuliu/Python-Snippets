@@ -53,6 +53,16 @@
 [DecryptPDF.py](https://github.com/cestbonsuliu/Python-Snippets/blob/bc77c09bc6147e053ab007579c42cfcc314c3acd/Snippets/PDFUtils/DecryptPDF.py)
 
 
+## PDF转图片
+
+[PDFToImage.py](https://github.com/cestbonsuliu/Python-Snippets/blob/f9f01d5be3a953e20649ff8e4fa302efe2d87dfa/Snippets/PDFUtils/PDFToImage.py)
+
+
+## 图片转PDF
+
+[ImageToPDF.py](https://github.com/cestbonsuliu/Python-Snippets/blob/f9f01d5be3a953e20649ff8e4fa302efe2d87dfa/Snippets/PDFUtils/ImageToPDF.py)
+
+
 ## Windows系统相关
 
 ### 向目标窗口发送信息
@@ -60,7 +70,11 @@
 [SendMessageToWindow.py](https://github.com/cestbonsuliu/Python-Snippets/blob/f23227148c2356399e9bc77533b65afa2781c539/Snippets/WindowsUtils/SendMessageToWindow.py)
 
 
+## 视频相关：[VideoUtils](https://github.com/cestbonsuliu/Python-Snippets/blob/f9f01d5be3a953e20649ff8e4fa302efe2d87dfa/Snippets/VideoUtils)
 
+### 视频转图片
+
+[VideoToImage.py](https://github.com/cestbonsuliu/Python-Snippets/blob/f9f01d5be3a953e20649ff8e4fa302efe2d87dfa/Snippets/VideoUtils/VideoToImage.py)
 
 
 
