@@ -14,7 +14,9 @@
 
 [BackupFolder.py](https://github.com/cestbonsuliu/Python-Snippets/blob/4ab3b34586117fcb88eca6515cf48ccca63ff073/Snippets/FileUtils/BackupFolder.py)
 
+## 映射关系数据的写入与读取
 
+[DumpAndLoad.py](https://github.com/cestbonsuliu/Python-Snippets/blob/d27a7d9c4d39526a6241bccd5885212bab806839/Snippets/FileUtils/DumpAndLoad.py)
 
 # PDF相关：[PDFUtils](https://github.com/cestbonsuliu/Python-Snippets/blob/fe45e7e28e2d05eca1f1952d87a76c87dc57fcea/Snippets/PDFUtils)
 
