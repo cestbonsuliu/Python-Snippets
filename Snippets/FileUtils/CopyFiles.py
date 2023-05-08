@@ -15,3 +15,4 @@ def copy_files_by_type(src_folder, dest_folder, file_type):
                     shutil.copy(src_file_path, dest_file_path)
     except Exception as e:
         print(f"复制文件出现异常：{e}")
+
