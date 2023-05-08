@@ -93,3 +93,8 @@
 [ReplaceImgtag.py](https://github.com/cestbonsuliu/Python-Snippets/blob/c933054a758e4d30cb71f35ebd6fd49687a59a26/Snippets/TextUtils/ReplaceImgtag.py)
 
 
+# 图片相关：[ImageUtils](https://github.com/cestbonsuliu/Python-Snippets/blob/10cbcad0091615657c278c223446b607888cea11/Snippets/ImageUtils)
+
+## 移动指定尺寸的图片
+
+[CopyImageBySize.py](https://github.com/cestbonsuliu/Python-Snippets/blob/10cbcad0091615657c278c223446b607888cea11/Snippets/ImageUtils/CopyImageBySize.py)
