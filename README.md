@@ -98,3 +98,10 @@
 ## 移动指定尺寸的图片
 
 [CopyImageBySize.py](https://github.com/cestbonsuliu/Python-Snippets/blob/10cbcad0091615657c278c223446b607888cea11/Snippets/ImageUtils/CopyImageBySize.py)
+
+
+# 其它实用
+
+## 发送邮件
+
+[SendEmail.py](https://github.com/cestbonsuliu/Python-Snippets/blob/608c7f3d9552f3dca613a5f51026bad4be5355cb/Snippets/Utils/SendEmail.py)
