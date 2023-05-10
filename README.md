@@ -105,3 +105,7 @@
 ## 发送邮件
 
 [SendEmail.py](https://github.com/cestbonsuliu/Python-Snippets/blob/608c7f3d9552f3dca613a5f51026bad4be5355cb/Snippets/Utils/SendEmail.py)
+
+## 向数据库中导入单词
+
+[WordToMySQL.py](https://github.com/cestbonsuliu/Python-Snippets/blob/78222d0748d755504d1dd70675d7fc9dd5abdfeb/Snippets/Utils/WordToMySQL.py)
