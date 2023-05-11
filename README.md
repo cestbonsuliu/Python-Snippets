@@ -93,6 +93,12 @@
 [ReplaceImgtag.py](https://github.com/cestbonsuliu/Python-Snippets/blob/c933054a758e4d30cb71f35ebd6fd49687a59a26/Snippets/TextUtils/ReplaceImgtag.py)
 
 
+## 分割字符串
+
+分割字符串，将字符串根据两个关键字分成三份
+
+[SplitString.py](https://github.com/cestbonsuliu/Python-Snippets/blob/04880e1c6a3d42d80d9c6e7bba1af9fbc8d51e8e/Snippets/TextUtils/SplitString.py)
+
 # 图片相关：[ImageUtils](https://github.com/cestbonsuliu/Python-Snippets/blob/10cbcad0091615657c278c223446b607888cea11/Snippets/ImageUtils)
 
 ## 移动指定尺寸的图片
