@@ -115,3 +115,7 @@
 ## 向数据库中导入单词
 
 [WordToMySQL.py](https://github.com/cestbonsuliu/Python-Snippets/blob/78222d0748d755504d1dd70675d7fc9dd5abdfeb/Snippets/Utils/WordToMySQL.py)
+
+## 更新单词表任一字段
+
+[UpdateWordField.py](https://github.com/cestbonsuliu/Python-Snippets/blob/fbaae37361a9ab807b524b0f74c7699b52e21fcf/Snippets/Utils/UpdateWordField.py)
