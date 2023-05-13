@@ -4,7 +4,7 @@
 
 
 
-# 文件相关：[FileUtils](https://github.com/cestbonsuliu/Python-Snippets/blob/76904f4eb41efc73711c485e6bb966e3bfae83e6/Snippets/FileUtils)
+# 文件与目录相关：[FileUtils](https://github.com/cestbonsuliu/Python-Snippets/blob/76904f4eb41efc73711c485e6bb966e3bfae83e6/Snippets/FileUtils)
 
 ## 获取指定顺序排序后的文件列表
 
@@ -119,3 +119,7 @@
 ## 更新单词表任一字段
 
 [UpdateWordField.py](https://github.com/cestbonsuliu/Python-Snippets/blob/fbaae37361a9ab807b524b0f74c7699b52e21fcf/Snippets/Utils/UpdateWordField.py)
+
+## 打印日期和星期
+
+[PrintDates.py](https://github.com/cestbonsuliu/Python-Snippets/blob/fe884e28c9d3abf20a8c36960e8a711eeb75e9fc/Snippets/Utils/PrintDates.py)
