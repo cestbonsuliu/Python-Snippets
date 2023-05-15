@@ -23,6 +23,11 @@
 
 [CopyFiles.py](https://github.com/cestbonsuliu/Python-Snippets/blob/c933054a758e4d30cb71f35ebd6fd49687a59a26/Snippets/FileUtils/CopyFiles.py)
 
+## 清空指定文件夹中指定类型的文件
+
+[ClearFiles.py](https://github.com/cestbonsuliu/Python-Snippets/blob/0292fcf612d0cbb7a2c0a05b91aa4c3facc67ed0/Snippets/FileUtils/ClearFiles.py)
+
+
 # PDF相关：[PDFUtils](https://github.com/cestbonsuliu/Python-Snippets/blob/fe45e7e28e2d05eca1f1952d87a76c87dc57fcea/Snippets/PDFUtils)
 
 ## 清空书签
@@ -98,6 +103,10 @@
 分割字符串，将字符串根据两个关键字分成三份
 
 [SplitString.py](https://github.com/cestbonsuliu/Python-Snippets/blob/04880e1c6a3d42d80d9c6e7bba1af9fbc8d51e8e/Snippets/TextUtils/SplitString.py)
+
+## 格式化提取单词信息
+
+[ExtractWord.py](https://github.com/cestbonsuliu/Python-Snippets/blob/cf8f1e18195650392cf935fff10e5c3c132b690c/Snippets/TextUtils/ExtractWord.py)
 
 # 图片相关：[ImageUtils](https://github.com/cestbonsuliu/Python-Snippets/blob/10cbcad0091615657c278c223446b607888cea11/Snippets/ImageUtils)
 
